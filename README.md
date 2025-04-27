@@ -1,24 +1,26 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Green-Earth
 
-## Getting Started
+## Description
+A side frontend project for a gardening company. Made with <img src="https://www.svgrepo.com/show/378440/nextjs-fill.svg" alt="NextJS logo" width="20" height="20"/>,  <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" alt="Typescript logo" width="20" height="20"/> and  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwindcss logo" width="20" height="20"/>
 
-First, run the development server:
+## Setup
+
+First clone to local machine
+
+```bash
+git clone https://github.com/Copstud3/green-earth.git 
+
+```
+
+Then, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
 ## Learn More
 
@@ -29,8 +31,7 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+## Leave a star and follow on here and on <img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?semt=ais_hybrid&w=740" alt="X" width="20" height="20" /> [here](https://x.com/copstud3)
+# Enjoy!

@@ -1,10 +1,10 @@
-import React from 'react'
-import Navbar from './components/navbar'
-import Hero from './components/hero'
-import Discover from './components/discover'
-import Reviews from './components/reviews'
-import Contact from './components/contact'
-import Footer from './components/footer'
+import React from "react";
+import Navbar from "./components/navbar";
+import Hero from "./components/hero";
+import Discover from "./components/discover";
+import Reviews from "./components/reviews";
+import Contact from "./components/contact";
+import Footer from "./components/footer";
 
 const Home = () => {
   return (
@@ -16,7 +16,7 @@ const Home = () => {
       <Contact />
       <Footer />
     </main>
-  )
-}
+  );
+};
 
-export default Home
+export default Home;
