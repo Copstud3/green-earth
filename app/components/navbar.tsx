@@ -18,7 +18,7 @@ export default function Navbar() {
   };
 
   return (
-    <section className="top-[11px] xl:gap-[174px] w-full flex items-center justify-between bg-transparent">
+    <section className="top-[11px] xl:gap-[174px] w-full flex items-center max-sm:justify-between bg-transparent">
       <Image
         src="/green-earth-logo.png"
         alt="Logo"
